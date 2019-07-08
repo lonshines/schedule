@@ -1,7 +1,7 @@
 
 # lonshines planning software
 
-![lonshines Logo](/images/logo-instructions.png)
+![lonshines Logo](https://github.com/lonshines/schedule/blob/master/images/logo.png)
 
 Schedule employees at your company
 
