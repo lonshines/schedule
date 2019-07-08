@@ -27,7 +27,7 @@ You are now masquerading USER 2. You can interact with the user account with the
 Click and drag inside the calendar to create a new task for the employee. In the appearing overlay form "New Schedule" choose a color and a title. For testing
 purpose create a task in the past. Use the arrows above the calendar to go back one day and create a task there.
 
-## Instructions for an employee
+## Instructions for an employee     
 
     $ OPEN IN A SECOND BROWSER (Firefox, Chrome, Safari, Opera, ..)
 
