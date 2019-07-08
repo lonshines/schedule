@@ -46,7 +46,7 @@ Review the tasks in the [waiting for approval](http://www.lonshines.com/waitingf
 
 Press the blue "Approve all" Button above the calendar list view.
 
-#### ALL YOUR TASKS SCHEDULED BY ADMIN FROM THE UMBRELLA CORPORATION ARE NOW BEING MARKED AS ONGOING OR FINISHED
+#### ALL YOUR TASKS SCHEDULED BY THE ADMINISTRATOR OF THE UMBRELLA CORPORATION ARE NOW BEING MARKED AS ONGOING OR FINISHED
 
 ***
 
